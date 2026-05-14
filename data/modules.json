@@ -1,0 +1,188 @@
+{
+  "modules": [
+    {
+      "id": "strategy",
+      "name": "Strategy",
+      "path": "modules/strategy",
+      "description": "Bridge the Execution Gap between vision and reality",
+      "subpages": [
+        {
+          "name": "Strategic Alignment Value",
+          "path": "strategic-alignment-value.html",
+          "description": "The cost of misaligned departments"
+        },
+        {
+          "name": "Scenario Planning",
+          "path": "scenario-planning.html",
+          "description": "Model 5-10 year outcomes"
+        },
+        {
+          "name": "Executive Visibility",
+          "path": "executive-visibility.html",
+          "description": "Real-time strategic insights"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "name": "Growth",
+      "path": "modules/growth",
+      "description": "Engineer predictable revenue growth",
+      "subpages": [
+        {
+          "name": "LTV & CAC Value",
+          "path": "ltv-cac-value.html",
+          "description": "Optimize customer acquisition economics"
+        },
+        {
+          "name": "Market Expansion Logic",
+          "path": "market-expansion-logic.html",
+          "description": "Identify the next best market"
+        },
+        {
+          "name": "Growth Attribution",
+          "path": "growth-attribution.html",
+          "description": "Track revenue impact by source"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "Markets",
+      "path": "modules/markets",
+      "description": "Leverage information asymmetry",
+      "subpages": [
+        {
+          "name": "Macro-Trend Integration",
+          "path": "macro-trend-integration.html",
+          "description": "External forces meet internal performance"
+        },
+        {
+          "name": "Geospatial Value",
+          "path": "geospatial-value.html",
+          "description": "Optimize physical footprint"
+        },
+        {
+          "name": "Regulatory Risk",
+          "path": "regulatory-risk.html",
+          "description": "Protect growth against shifting laws"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "name": "Competitors",
+      "path": "modules/competitors",
+      "description": "Build defensibility and market share",
+      "subpages": [
+        {
+          "name": "Market Share Analytics",
+          "path": "market-share-analytics.html",
+          "description": "Track competitive positioning"
+        },
+        {
+          "name": "Competitive Intelligence",
+          "path": "competitive-intelligence.html",
+          "description": "Monitor rival movements"
+        },
+        {
+          "name": "Win/Loss Analysis",
+          "path": "win-loss-analysis.html",
+          "description": "Understand why you win"
+        }
+      ]
+    },
+    {
+      "id": "ma",
+      "name": "M&A",
+      "path": "modules/ma",
+      "description": "Achieve deal certainty",
+      "subpages": [
+        {
+          "name": "Due Diligence Engine",
+          "path": "due-diligence-engine.html",
+          "description": "Audit target companies in hours"
+        },
+        {
+          "name": "Synergy Tracking",
+          "path": "synergy-tracking.html",
+          "description": "Prove the integration value"
+        },
+        {
+          "name": "Target Pipeline",
+          "path": "target-pipeline.html",
+          "description": "Organize and rank acquisitions"
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "name": "Quality",
+      "path": "modules/quality",
+      "description": "Maintain operational excellence at scale",
+      "subpages": [
+        {
+          "name": "Risk & Compliance Value",
+          "path": "risk-compliance-value.html",
+          "description": "Avoid fines and litigation"
+        },
+        {
+          "name": "Standardization",
+          "path": "standardization.html",
+          "description": "Ensure consistent standards"
+        },
+        {
+          "name": "Customer Sentiment",
+          "path": "customer-sentiment.html",
+          "description": "Track brand reputation"
+        }
+      ]
+    },
+    {
+      "id": "operations",
+      "name": "Operations",
+      "path": "modules/operations",
+      "description": "Create a frictionless enterprise",
+      "subpages": [
+        {
+          "name": "Margin Expansion Value",
+          "path": "margin-expansion-value.html",
+          "description": "Turn efficiency into EBITDA"
+        },
+        {
+          "name": "Supply Chain Resilience",
+          "path": "supply-chain-resilience.html",
+          "description": "Identify vulnerabilities"
+        },
+        {
+          "name": "Unit Economics",
+          "path": "unit-economics.html",
+          "description": "Cost-per-action visibility"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "name": "People",
+      "path": "modules/people",
+      "description": "Maximize human capital ROI",
+      "subpages": [
+        {
+          "name": "Retention & Turnover Value",
+          "path": "retention-turnover-value.html",
+          "description": "The cost of losing talent"
+        },
+        {
+          "name": "Productivity Benchmarking",
+          "path": "productivity-benchmarking.html",
+          "description": "Compare team performance"
+        },
+        {
+          "name": "Succession Planning",
+          "path": "succession-planning.html",
+          "description": "Identify future leaders"
+        }
+      ]
+    }
+  ]
+}

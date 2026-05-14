@@ -1,0 +1,69 @@
+# Executive Analytics Platform - Site Map
+# Total: 39 pages (1 homepage + 8 modules + 24 subpages + 6 support pages)
+
+## Homepage
+index.html
+
+## Module Landing Pages (8)
+modules/strategy/index.html
+modules/growth/index.html
+modules/markets/index.html
+modules/competitors/index.html
+modules/ma/index.html
+modules/quality/index.html
+modules/operations/index.html
+modules/people/index.html
+
+## Strategy Subpages (3)
+modules/strategy/strategic-alignment-value.html
+modules/strategy/scenario-planning.html
+modules/strategy/executive-visibility.html
+
+## Growth Subpages (3)
+modules/growth/ltv-cac-value.html
+modules/growth/market-expansion-logic.html
+modules/growth/growth-attribution.html
+
+## Markets Subpages (3)
+modules/markets/macro-trend-integration.html
+modules/markets/geospatial-value.html
+modules/markets/regulatory-risk.html
+
+## Competitors Subpages (3)
+modules/competitors/market-share-analytics.html
+modules/competitors/competitive-intelligence.html
+modules/competitors/win-loss-analysis.html
+
+## M&A Subpages (3)
+modules/ma/due-diligence-engine.html
+modules/ma/synergy-tracking.html
+modules/ma/target-pipeline.html
+
+## Quality Subpages (3)
+modules/quality/risk-compliance-value.html
+modules/quality/standardization.html
+modules/quality/customer-sentiment.html
+
+## Operations Subpages (3)
+modules/operations/margin-expansion-value.html
+modules/operations/supply-chain-resilience.html
+modules/operations/unit-economics.html
+
+## People Subpages (3)
+modules/people/retention-turnover-value.html
+modules/people/productivity-benchmarking.html
+modules/people/succession-planning.html
+
+## Support Pages (6)
+pages/about.html
+pages/security.html
+pages/pricing.html
+pages/resources.html
+pages/ecosystem.html
+pages/privacy.html
+pages/terms.html
+
+## Supporting Files
+css/styles.css
+js/nav.js
+data/modules.json
